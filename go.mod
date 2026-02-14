@@ -1,4 +1,4 @@
-module acs.vibecaas.app/sdk
+module github.com/VibeCaaS/acs-sdk-go
 
 go 1.21
 
